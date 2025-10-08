@@ -50,7 +50,7 @@
 
 - **Email**: [stasik.yznik@mail.ru](mailto:stasik.yznik@mail.ru)
 - **VK**: [vk.com/your_profile](https://vk.com/your_profile)
-- **Телеграм**: [@dgnrt](https://t.me/dgnr_t)
+- **Телеграм**: [@dgnr_t](https://t.me/dgnr_t)
 - **GitHub**: [github.com/stanislavselyasnkii](https://github.com/stanislavselyasnkii)
 
 ---
